@@ -1,4 +1,4 @@
-**📈 Superstore Sales Performance and Profitability Analysis**
+<!-- **📈 Superstore Sales Performance and Profitability Analysis** -->
 
 **Project Overview**
 
@@ -10,15 +10,18 @@ The analysis led to the finding that the company's profitability is being suppre
 
 The analysis provides actionable insights centered on improving profit margins and optimizing inventory strategy.
 
-| **Finding**       | **Insight**                                                                                   | **Recommendation**                                                                                                       |   |   |
+| **Finding**         | **Insight**                                                                                    | **Recommendation**                                                                                                        |   |   |
 |-----------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---|---|
-|**Loss Threshold**  | Any discount of 30% or higher results in an average net loss per transaction.              | Immediately implement a maximum discount cap of 20% to maintain profitability on average.                             |   |   |
-|**Worst Offenders** | The Tables sub-category alone caused over $17,700 in net losses during the period.         | Stop heavily discounting Tables and Bookcases. Re-evaluate pricing, sourcing, or discontinue these loss-making items. |   |   |
+| **Loss Threshold**  | Any discount of 30% or higher results in an average net loss per transaction.              | Immediately implement a maximum discount cap of 20% to maintain profitability on average.                             |   |   |
+| **Worst Offenders** | The Tables sub-category alone caused over $17,700 in net losses during the period.         | Stop heavily discounting Tables and Bookcases. Re-evaluate pricing, sourcing, or discontinue these loss-making items. |   |   |
 | **Strong Growth**   | Sales and Profit are growing consistently year-over-year, confirming business scalability. | Continue current market expansion strategy, but with pricing safeguards in place.                                     |   |   |
-|**Profit Engines**  | Copiers, Phones, and Accessories are the most reliable profit drivers.                     | Prioritize marketing and inventory investment in these high-margin sub-categories.                                    |   |   |
+| **Profit Engines**  | Copiers, Phones, and Accessories are the most reliable profit drivers.                     | Prioritize marketing and inventory investment in these high-margin sub-categories.                                    |   |   |
 
 
-**🛠️ Technical Stack and Methodology******
+
+
+
+**🛠️ Technical Stack and Methodology**
 
 **Tools and Libraries**
 
