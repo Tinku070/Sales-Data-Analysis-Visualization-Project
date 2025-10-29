@@ -80,6 +80,6 @@ pip install pandas numpy matplotlib seaborn
 **Run:**  Open and execute the code cells in the Jupyter Notebook (sales_analysis.ipynb or similar).
 
 
-**For Reference of the Documentation go through below link :**
+**For Reference :  go through below documentation :**
 
 https://docs.google.com/document/d/1UN0oU2mCgDBDT7X469Uv0OhpcsNkdczM4CSb3c5Lk3c/edit?usp=sharing
